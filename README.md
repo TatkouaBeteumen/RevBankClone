@@ -1,2 +1,1 @@
-# RevBankClone
-Created with CodeSandbox
+RevBankClone is a small web application inspired by the design and layout of Revolut. It was built with React and TailwindCSS as part of my first-semester learning journey in web development. While the app doesn't yet include features like login or real-time data, it offers a clean, interactive dashboard showing the total balance, monthly income and expenses, and recent transactions. The project focuses on building a user-friendly UI and learning how to structure modern front-end applications. As I continue learning, I plan to improve the visual design, add authentication, and connect to real data sources.
